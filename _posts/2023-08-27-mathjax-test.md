@@ -1,5 +1,5 @@
 ---
-layout: https://smms.app/image/rDigz1bN6tQlRok
+layout: https://s2.loli.net/2023/08/27/rDigz1bN6tQlRok.jpg
 title: 关于陈丁一(人机)
 subtitle: 低调一点
 categories: 陈丁一
