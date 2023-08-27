@@ -3,7 +3,8 @@ layout: post
 title: 关于陈丁一(人机)
 subtitle: 低调一点
 categories: 陈丁一
-  video: https://vjs.zencdn.net/v/oceans.mp4
+banner:
+video: https://vjs.zencdn.net/v/oceans.mp4
   loop: true
   volume: 0.8
   start_at: 8.5
