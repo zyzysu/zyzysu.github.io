@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: https://smms.app/image/rDigz1bN6tQlRok
 title: 关于陈丁一(人机)
 subtitle: 低调一点
 categories: 陈丁一
