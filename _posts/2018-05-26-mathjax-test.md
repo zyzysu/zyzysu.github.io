@@ -1,13 +1,10 @@
 ---
 layout: post
-title: Mathjax Test
-subtitle: My first mathjax expression
-categories: markdown
-tags: [test]
+title: 关于陈丁一(人机)
+subtitle: 低调一点
+categories: 陈丁一
+tags: [人机]
 ---
 
-* A safe integer is an integer that
-  * can be exactly represented as an IEEE-754 double precision number, and
-  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
-* For example, $ 2 ^ {53} - 1 $ is a safe integer,
-  * it can be exactly represented 
+*陈丁一你直接给我坐下！
+  * 低调一点
