@@ -9,7 +9,7 @@ banner:
   loop: true
   volume: 0.8
   start_at: 8.5
-  image: https://s2.loli.net/2023/08/27/gKJrE1O74XhcyIA.jpg
+  image: https://s2.loli.net/2023/08/27/rDigz1bN6tQlRok.jpg
   opacity: 0.618
   background: "#000"
   height: "100vh"
