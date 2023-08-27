@@ -4,11 +4,7 @@ title: 关于陈丁一(人机)
 subtitle: 低调一点
 categories: 陈丁一
 banner:
-video: https://vjs.zencdn.net/v/oceans.mp4
-  loop: true
-  volume: 0.8
-  start_at: 8.5
-  image: https://bit.ly/3xTmdUP
+image: https://bit.ly/3xTmdUP
   opacity: 0.618
   background: "#000"
   height: "100vh"
